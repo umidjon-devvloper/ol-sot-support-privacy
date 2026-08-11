@@ -13,6 +13,7 @@ export default defineConfig({
         main: page('./index.html'),
         support: page('./support/index.html'),
         privacy: page('./privacy/index.html'),
+        deleteAccount: page('./delete-account/index.html'),
       },
     },
   },
